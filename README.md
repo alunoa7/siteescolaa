@@ -1,1 +1,79 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header class="cabeçalho">
+    <img class="cabeçalho-imagem"src="alurastart logo.png" alt="logo da alura start">
+    <ul class="cabeçalho lista">
+        <li class="cabeçalho-lista-item">Escola</li>
+        <li class="cabeçalho-lista-item">Estudante </li>
+    </header>
+    <section class="escola">
+        <div class="escola-div-conteudo">
+            <h2 class="escola-titulo">Sobre escola</h2>
+            <p class="escola-texto-um">Meu nome é Deiverson,</p>
+            <p class="escola-texto-dois">Estudo no CEOBB no segundo ano, É  legal.</p>
+        </div>
+        <img class="escola-imagem" src="fumequartz.png" alt="cafezinho">
+    </section>
+    <section class="estudante">
+    <h2 class="estudantes-titulo">Quem são nossos estudantes?</h2>
+    <div class="estudante-todos">
+        <span></span>
+    <div class="estudante-div">
+     <img class="estudante-imagem" src="Marry-jones.jpeg" alt="foto da maria Jones">
+     <h3 class="estudante-nome">Marilua</h3>
+     <img class="estudante-icon" src="github.png" alt="github">
+     <img class="estudante-icon" src="instagram.png" alt="insta">
+     <img class="estudante-icon" src="pinterest.png" alt="desenho">
+    </div>
+    <div class="estudante-div">
+        <img class="estudante-imagem" src="Magnara.jpeg" alt="foto da maria Jones">
+        <h3 class="estudante-nome">Maiara</h3>
+        <img class="estudante-icon" src="github.png" alt="github">
+        <img class="estudante-icon" src="instagram.png" alt="insta">
+        <img class="estudante-icon" src="pinterest.png" alt="desenho">
+       </div>
+       <div class="estudante-div">
+        <img class="estudante-imagem" src="maneugomi.png" alt="foto da maria Jones">
+        <h3 class="estudante-nome">Gustavo.V</h3>
+        <img class="estudante-icon" src="github.png" alt="github">
+        <img class="estudante-icon" src="instagram.png" alt="insta">
+        <img class="estudante-icon" src="pinterest.png" alt="desenho">
+       </div>
+       <div class="estudante-div">
+        <img class="estudante-imagem" src="Marry-jones.jpeg" alt="foto da maria Jones">
+        <h3 class="estudante-nome">Marilua</h3>
+        <img class="estudante-icon" src="github.png" alt="github">
+        <img class="estudante-icon" src="instagram.png" alt="insta">
+        <img class="estudante-icon" src="pinterest.png" alt="desenho">
+       </div>
+       <div class="estudante-div">
+        <img class="estudante-imagem" src="Marry-jones.jpeg" alt="foto da maria Jones">
+        <h3 class="estudante-nome">Marilua</h3>
+        <img class="estudante-icon" src="github.png" alt="github">
+        <img class="estudante-icon" src="instagram.png" alt="insta">
+        <img class="estudante-icon" src="pinterest.png" alt="desenho">
+       </div>
+       <div class="estudante-div">
+        <img class="estudante-imagem" src="Marry-jones.jpeg" alt="foto da maria Jones">
+        <h3 class="estudante-nome">Marilua</h3>
+        <img class="estudante-icon" src="github.png" alt="github">
+        <img class="estudante-icon" src="instagram.png" alt="insta">
+        <img class="estudante-icon" src="pinterest.png" alt="desenho">
+       </div>
+    </div>
+    </section>
+</body>
+</html>
